@@ -1,0 +1,68 @@
+body {
+   height: 100%;
+    font-family: 'roboto', 'sans-serif';
+ 
+}
+
+.simplon { font-family: 'roboto';
+    bottom: -50px;
+}
+.lorem {
+    font-family: 'roboto';
+    align-content: center;
+    left:25px;
+    bottom:-60px;
+
+
+}
+.image1 {
+    bottom: -100px;
+    left: -150px;
+}
+.image2 {
+    left: 610px;
+    bottom: 50px;
+}
+.clique {
+    font-family: 'roboto';
+    left:-50px;
+    bottom: 40px;
+}
+.clique2 {
+    
+    font-family: 'roboto';
+    left: 145px;
+    bottom: 40px;
+}
+
+#footer {
+   
+    height: 130px;
+    width: 100%;
+    background: #676767;
+     position: absolute;
+    bottom: 0;
+    margin: 0;
+   padding: 0;
+    float: right;
+}
+.footext { 
+     
+    color: white;
+    text-align: right;
+    display: block;
+    position: absolute;
+    bottom: 100px;
+    right: 10px;
+     margin: 0;
+  padding: 0;
+    
+    }
+
+    
+
+
+
+    
+
+
